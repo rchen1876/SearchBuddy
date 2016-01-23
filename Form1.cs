@@ -8,7 +8,6 @@ namespace OnScreenSearchBar
         public Form1()
         {
             InitializeComponent();
-            
         }
 
         private void SearchButton_Click(object sender, EventArgs e)
@@ -40,7 +39,6 @@ namespace OnScreenSearchBar
                     catch (Exception) { }
                 }
             }
-            
         }
 
         protected override bool ProcessDialogKey(Keys keyData)
