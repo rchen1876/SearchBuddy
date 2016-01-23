@@ -1,5 +1,7 @@
 # SearchBuddy
 Run Google searches with one keystroke.
+
+![SearchBuddy Screenshot](http://i.imgur.com/cQ1fpZt.png)
 ## Installation
 Download `SearchBuddy.exe` to folder of your choice. Create a shortcut to it on your Desktop. Right click shortcut on Desktop, click Properties, then click the "Shortcut key" field and hit your preferred key combination. I use CTRL+SHIFT+Z.
 ## FAQ
